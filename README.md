@@ -1,6 +1,6 @@
 # API da Won Games
 
-API feita junto ao curso de [https://reactavancado.com.br/](React Avançado) (mais especificamente no módulo 2) promovido pelo William Justen. A API é feita usando o headless CMS
+API feita junto ao curso de [React Avançado](https://reactavancado.com.br/) (mais especificamente no módulo 2) promovido pelo William Justen. A API é feita usando o headless CMS
 Strapi. Consiste em criar jogos no banco de dados coletando dados da própria API da GOG games e fazendo isso por meio de services customizados.
 
 
